@@ -8,3 +8,9 @@ wget https://github.com/jetsale/opencart_ua_ukraine/raw/main/opencart-3.0.4.0_ua
 Кодування - uk-UA,uk_UA.UTF-8,uk_UA,ukrainian
 Статус - Включено
 Порядок сортування (те, що ви хочете)
+
+Hi! Делал все как показано на видео но каждый раз получаю ошибку при установке данного модуля в админке на default oc без других модулей:
+"08-09 8:57:09 - PHP Notice:  Error: Could not load template extension/module/custom! in /home/oc-test123/storage/modification/system/library/template/twig.php on line 41"
+На стороне клиента криво грузится страница checkout или вообще пишет сообщение module_off.
+(module: Custom Checkout; oc v3.0.4.0 only default en-gb; Оплата и доставка так как на видео; User Groups -> Administrator -> All Permission)
+Возможно у кого-то была такая же ошибка и вы знаете как ее исправить?
