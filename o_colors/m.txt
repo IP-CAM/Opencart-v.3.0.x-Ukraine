@@ -1,1 +1,3 @@
 original color size 24x24
+
+wget https://github.com/jetsale/opencart_ukraine/raw/main/o_colors/colors.zip
